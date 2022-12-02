@@ -1,3 +1,24 @@
-2022/12/02-00:34:16.977 4841 Reusing MANIFEST /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/02-00:34:16.977 4841 Recovering log #220
-2022/12/02-00:34:16.984 4841 Reusing old log /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000220.log 
+2022/12/02-00:46:31.418 4b15 Reusing MANIFEST /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/02-00:46:31.418 4b15 Recovering log #220
+2022/12/02-00:46:31.467 4b15 Reusing old log /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000220.log 
+2022/12/02-00:46:43.789 4b0a Level-0 table #231: started
+2022/12/02-00:46:43.815 4b0a Level-0 table #231: 1108092 bytes OK
+2022/12/02-00:46:43.818 4b0a Delete type=0 #220
+2022/12/02-00:46:45.079 4b15 Compacting 1@1 + 7@2 files
+2022/12/02-00:46:45.168 4b15 Generated table #232@1: 41120 keys, 2268965 bytes
+2022/12/02-00:46:45.207 4b15 Generated table #233@1: 5358 keys, 2161736 bytes
+2022/12/02-00:46:45.310 4b15 Generated table #234@1: 3254 keys, 2151785 bytes
+2022/12/02-00:46:45.358 4b15 Generated table #235@1: 12185 keys, 2171536 bytes
+2022/12/02-00:46:45.421 4b15 Generated table #236@1: 28852 keys, 2251506 bytes
+2022/12/02-00:46:45.490 4b15 Generated table #237@1: 61941 keys, 2201264 bytes
+2022/12/02-00:46:45.559 4b15 Generated table #238@1: 81694 keys, 1787978 bytes
+2022/12/02-00:46:45.559 4b15 Compacted 1@1 + 7@2 files => 14994770 bytes
+2022/12/02-00:46:45.563 4b15 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/12/02-00:46:45.563 4b15 Delete type=2 #224
+2022/12/02-00:46:45.563 4b15 Delete type=2 #226
+2022/12/02-00:46:45.563 4b15 Delete type=2 #225
+2022/12/02-00:46:45.563 4b15 Delete type=2 #228
+2022/12/02-00:46:45.563 4b15 Delete type=2 #222
+2022/12/02-00:46:45.563 4b15 Delete type=2 #227
+2022/12/02-00:46:45.563 4b15 Delete type=2 #223
+2022/12/02-00:46:45.563 4b15 Delete type=2 #231
