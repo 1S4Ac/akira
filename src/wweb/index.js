@@ -30,7 +30,7 @@ const start = async () => {
         client.sendMessage(message.from, MessageMedia())
       }
 
-      if (message.type == audio) {
+      if (message.type == "audio") {
         console.log("isso é um audio");
       }
 

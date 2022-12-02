@@ -3,7 +3,7 @@ const add = async (req, res) => {
 }
 
  const list = (req, res) => {
-
+    console.log(products)
  }
 
  const get = () => {
