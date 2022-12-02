@@ -25,7 +25,7 @@ const start = async () => {
         return;
       }
 
-      if (messge.body == "!meme") {
+      if (message.body == "!meme") {
         const meme = await memes.fromReddit("en");
         client.sendMessage(message.from, MessageMedia())
       }

@@ -1,26 +1,23 @@
-2022/12/02-01:14:56.106 579c Reusing MANIFEST /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/02-01:14:56.106 579c Recovering log #282
-2022/12/02-01:14:56.168 579c Reusing old log /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000282.log 
-2022/12/02-01:15:07.526 579e Level-0 table #294: started
-2022/12/02-01:15:07.548 579e Level-0 table #294: 1095277 bytes OK
-2022/12/02-01:15:07.553 579e Delete type=0 #282
-2022/12/02-01:15:07.558 579e Compacting 1@1 + 8@2 files
-2022/12/02-01:15:07.641 579e Generated table #295@1: 30167 keys, 2261502 bytes
-2022/12/02-01:15:07.698 579e Generated table #296@1: 36007 keys, 2234909 bytes
-2022/12/02-01:15:07.723 579e Generated table #297@1: 2291 keys, 2143362 bytes
-2022/12/02-01:15:07.748 579e Generated table #298@1: 3685 keys, 2156387 bytes
-2022/12/02-01:15:07.806 579e Generated table #299@1: 24812 keys, 2222874 bytes
-2022/12/02-01:15:07.853 579e Generated table #300@1: 20933 keys, 2190669 bytes
-2022/12/02-01:15:07.930 579e Generated table #301@1: 106569 keys, 2257288 bytes
-2022/12/02-01:15:07.956 579e Generated table #302@1: 30590 keys, 674366 bytes
-2022/12/02-01:15:07.956 579e Compacted 1@1 + 8@2 files => 16141357 bytes
-2022/12/02-01:15:07.959 579e compacted to: files[ 0 0 8 0 0 0 0 ]
-2022/12/02-01:15:07.959 579e Delete type=2 #285
-2022/12/02-01:15:07.959 579e Delete type=2 #288
-2022/12/02-01:15:07.959 579e Delete type=2 #291
-2022/12/02-01:15:07.959 579e Delete type=2 #287
-2022/12/02-01:15:07.959 579e Delete type=2 #286
-2022/12/02-01:15:07.960 579e Delete type=2 #294
-2022/12/02-01:15:07.960 579e Delete type=2 #290
-2022/12/02-01:15:07.960 579e Delete type=2 #289
-2022/12/02-01:15:07.960 579e Delete type=2 #284
+2022/12/02-08:22:33.812 6186 Reusing MANIFEST /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/02-08:22:33.812 6186 Recovering log #359
+2022/12/02-08:22:33.812 6186 Reusing old log /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000359.log 
+2022/12/02-08:22:34.902 6183 Compacting 1@1 + 8@2 files
+2022/12/02-08:22:34.973 6183 Generated table #362@1: 30150 keys, 2260952 bytes
+2022/12/02-08:22:35.045 6183 Generated table #363@1: 51950 keys, 2275166 bytes
+2022/12/02-08:22:35.077 6183 Generated table #364@1: 5519 keys, 2167797 bytes
+2022/12/02-08:22:35.104 6183 Generated table #365@1: 3200 keys, 2149646 bytes
+2022/12/02-08:22:35.139 6183 Generated table #366@1: 11680 keys, 2167465 bytes
+2022/12/02-08:22:35.204 6183 Generated table #367@1: 29195 keys, 2257229 bytes
+2022/12/02-08:22:35.261 6183 Generated table #368@1: 59126 keys, 2197327 bytes
+2022/12/02-08:22:35.324 6183 Generated table #369@1: 85098 keys, 1863614 bytes
+2022/12/02-08:22:35.324 6183 Compacted 1@1 + 8@2 files => 17339196 bytes
+2022/12/02-08:22:35.327 6183 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/12/02-08:22:35.327 6183 Delete type=2 #352
+2022/12/02-08:22:35.327 6183 Delete type=2 #355
+2022/12/02-08:22:35.327 6183 Delete type=2 #360
+2022/12/02-08:22:35.327 6183 Delete type=2 #350
+2022/12/02-08:22:35.327 6183 Delete type=2 #353
+2022/12/02-08:22:35.327 6183 Delete type=2 #354
+2022/12/02-08:22:35.327 6183 Delete type=2 #351
+2022/12/02-08:22:35.327 6183 Delete type=2 #356
+2022/12/02-08:22:35.327 6183 Delete type=2 #357

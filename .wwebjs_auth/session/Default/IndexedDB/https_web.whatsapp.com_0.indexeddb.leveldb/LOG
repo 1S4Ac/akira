@@ -1,3 +1,26 @@
-2022/12/02-06:13:12.782 5800 Reusing MANIFEST /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/02-06:13:12.782 5800 Recovering log #293
-2022/12/02-06:13:12.823 5800 Reusing old log /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000293.log 
+2022/12/02-08:23:36.728 6233 Reusing MANIFEST /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/02-08:23:36.728 6233 Recovering log #359
+2022/12/02-08:23:36.756 6233 Reusing old log /home/content/projects/akira/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000359.log 
+2022/12/02-08:23:49.460 6246 Level-0 table #372: started
+2022/12/02-08:23:49.483 6246 Level-0 table #372: 1136330 bytes OK
+2022/12/02-08:23:49.486 6246 Delete type=0 #359
+2022/12/02-08:23:50.630 6247 Compacting 1@1 + 8@2 files
+2022/12/02-08:23:50.709 6247 Generated table #373@1: 30459 keys, 2259951 bytes
+2022/12/02-08:23:50.773 6247 Generated table #374@1: 46057 keys, 2268516 bytes
+2022/12/02-08:23:50.816 6247 Generated table #375@1: 15019 keys, 2185204 bytes
+2022/12/02-08:23:50.856 6247 Generated table #376@1: 2851 keys, 2148913 bytes
+2022/12/02-08:23:50.896 6247 Generated table #377@1: 8064 keys, 2160826 bytes
+2022/12/02-08:23:50.970 6247 Generated table #378@1: 31202 keys, 2255784 bytes
+2022/12/02-08:23:51.025 6247 Generated table #379@1: 51199 keys, 2193989 bytes
+2022/12/02-08:23:51.092 6247 Generated table #380@1: 95092 keys, 2081944 bytes
+2022/12/02-08:23:51.092 6247 Compacted 1@1 + 8@2 files => 17555127 bytes
+2022/12/02-08:23:51.095 6247 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/12/02-08:23:51.095 6247 Delete type=2 #368
+2022/12/02-08:23:51.095 6247 Delete type=2 #363
+2022/12/02-08:23:51.095 6247 Delete type=2 #365
+2022/12/02-08:23:51.095 6247 Delete type=2 #367
+2022/12/02-08:23:51.095 6247 Delete type=2 #369
+2022/12/02-08:23:51.095 6247 Delete type=2 #364
+2022/12/02-08:23:51.095 6247 Delete type=2 #366
+2022/12/02-08:23:51.095 6247 Delete type=2 #372
+2022/12/02-08:23:51.095 6247 Delete type=2 #362
