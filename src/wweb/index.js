@@ -1,6 +1,6 @@
 const { Client, LocalAuth, MessageMedia } = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
-const moment = require("moment");
+const memes = require("random-memes");
 
 const client = new Client({
   authStrategy: new LocalAuth(),
@@ -21,8 +21,13 @@ const start = async () => {
     });
 
     client.on("message", async (message) => {
-      if (message.isStatus) {
+      if (!message.type == "chat") {
         return;
+      }
+
+      if (messge.body == "!meme") {
+        const meme = await memes.fromReddit("en");
+        client.sendMessage(message.from, MessageMedia())
       }
 
       if (message.type == audio) {
