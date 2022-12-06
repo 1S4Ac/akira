@@ -1,3 +1,6 @@
-2022/12/02-08:23:36.229 6230 Reusing MANIFEST /home/content/projects/akira/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2022/12/02-08:23:36.229 6230 Recovering log #7
-2022/12/02-08:23:36.229 6230 Reusing old log /home/content/projects/akira/.wwebjs_auth/session/Default/Local Storage/leveldb/000007.log 
+2022/12/06-19:19:55.367 1cade Reusing MANIFEST /home/isaac/projects/akira/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/12/06-19:19:55.368 1cade Recovering log #100
+2022/12/06-19:19:55.369 1cade Reusing old log /home/isaac/projects/akira/.wwebjs_auth/session/Default/Local Storage/leveldb/000100.log 
+2022/12/06-20:11:25.992 1dcd6 Level-0 table #104: started
+2022/12/06-20:11:25.997 1dcd6 Level-0 table #104: 13317 bytes OK
+2022/12/06-20:11:25.999 1dcd6 Delete type=0 #100
